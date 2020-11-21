@@ -7,3 +7,6 @@
 [submodule "third-party/GyverUART"]
 	path = third-party/GyverUART
 	url = https://github.com/cyrmax/GyverUART.git
+[submodule "third-party/DFPlayer"]
+	path = third-party/DFPlayer
+	url = https://github.com/DFRobot/DFRobotDFPlayerMini.git
