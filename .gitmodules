@@ -1,0 +1,9 @@
+[submodule "third-party/GyverButton"]
+	path = third-party/GyverButton
+	url = https://github.com/cyrmax/GyverButton.git
+[submodule "third-party/GyverFilters"]
+	path = third-party/GyverFilters
+	url = https://github.com/cyrmax/GyverFilters.git
+[submodule "third-party/GyverUART"]
+	path = third-party/GyverUART
+	url = https://github.com/cyrmax/GyverUART.git
