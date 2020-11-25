@@ -1,12 +1,12 @@
-[submodule "third-party/GyverButton"]
-	path = third-party/GyverButton
+[submodule "src/GyverButton"]
+	path = src/GyverButton
 	url = https://github.com/cyrmax/GyverButton.git
-[submodule "third-party/GyverFilters"]
-	path = third-party/GyverFilters
+[submodule "src/GyverFilters"]
+	path = src/GyverFilters
 	url = https://github.com/cyrmax/GyverFilters.git
-[submodule "third-party/GyverUART"]
-	path = third-party/GyverUART
+[submodule "src/GyverUART"]
+	path = src/GyverUART
 	url = https://github.com/cyrmax/GyverUART.git
-[submodule "third-party/DFPlayer"]
-	path = third-party/DFPlayer
+[submodule "src/DFPlayer"]
+	path = src/DFPlayer
 	url = https://github.com/DFRobot/DFRobotDFPlayerMini.git
